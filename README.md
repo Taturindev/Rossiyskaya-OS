@@ -43,7 +43,8 @@
 - `qemu-system-i386` (для эмуляции)
 
 ```bash
-git clone https://github.com/yourname/Rossiyskaya-OS.git
+git clone https://github.com/Taturindev/Rossiyskaya-OS.git
 cd Rossiyskaya-OS
 make clean
+
 make run
